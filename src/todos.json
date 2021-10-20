@@ -1,0 +1,17 @@
+[
+    {
+        "id": "id-1",
+        "text": "Вивчити React",
+        "completed": false
+    },
+    {
+        "id": "id-2",
+        "text": "Пройти співбесіду",
+        "completed": false
+    },
+    {
+        "id": "id-3",
+        "text": "Отримати офер",
+        "completed": true
+    }
+]
